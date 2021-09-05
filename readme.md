@@ -1,0 +1,1 @@
+news article website using an api and ajax in js
